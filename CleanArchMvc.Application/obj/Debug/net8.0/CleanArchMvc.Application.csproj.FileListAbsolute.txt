@@ -1,0 +1,11 @@
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.deps.json
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.dll
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
+C:\Users\martins912997\Desktop\Estudo\dotnet\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
